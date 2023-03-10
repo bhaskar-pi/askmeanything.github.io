@@ -13,8 +13,8 @@ const app = express()
 const port = 3001
 
 const configuration = new Configuration({
-  organization: 'org-yHF5TtfdeF2Sn3WHzelyDn93',
-  apiKey: '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',
+  organization: '',
+  apiKey: '',
 })
 const openai = new OpenAIApi(configuration)
 
