@@ -12,10 +12,6 @@
 - src/App.js
 - server.js
 
-## Replacing keys
-
-- Replace your `API_KEY` and `organization` keys with your credentials in `server.js` file
-
 ## Refer below image
 
 <img src="https://res.cloudinary.com/dxnwg4dyz/image/upload/v1678463645/Screenshot_2023-03-10_212315_raipjt.png" />
